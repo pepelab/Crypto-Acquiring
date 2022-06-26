@@ -1,2 +1,2 @@
-# Crypto-Acquiring
+# Crypto Acquiring
 Crypto Acquiring for pysova
